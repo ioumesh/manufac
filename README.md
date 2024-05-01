@@ -1,3 +1,16 @@
+Demo Link: [ https://manufac-crop.vercel.app/ ]
+Code Link: [ https://github.com/ioumesh/manufac ]
+
+Feature
+1)Table for maximum and minimum crop production.
+2)Table for Average yield and cultivation area of crops.
+
+Languages/Libraries/Tools to be used:
+1. TypeScript
+2. React via CRA
+3. Yarn
+4. Mantine V7
+
 ### Test Result
 ![image](https://github.com/ioumesh/manufac/assets/13677074/a9ec4abb-cb1c-4190-9240-35abe1e3a621)
 
