@@ -51,8 +51,8 @@ const CropYield: React.FC = () => {
 
   return (
     <div>
-      <h2>Average Yield</h2>
-      <Table>
+      <h2 className="avg-heading">Average Yield</h2>
+      <Table className="table">
         <Table.Thead>
           <Table.Tr>
             <Table.Th>Crop</Table.Th>

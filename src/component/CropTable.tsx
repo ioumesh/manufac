@@ -49,8 +49,8 @@ const CropTable: React.FC = () => {
 
   return (
     <div>
-      <h2>Crop Production</h2>
-      <Table>
+      <h2 className="crop-heading">Crop Production</h2>
+      <Table className="table">
         <Table.Thead>
           <Table.Tr>
             <Table.Th>Year</Table.Th>
